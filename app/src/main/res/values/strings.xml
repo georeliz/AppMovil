@@ -1,8 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">AppMovil</string>
+    <string name="app_name">Xela Eventos</string>
     <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Actualizar</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="drawer_closed">cerrado</string>
+    <string name="drawer_opened">abierto</string>
+
+    <string name="welcome_footer">Disfrutemos de lo nuestro</string>
+    <string name="title_activity_login">Sing in</string>
+    <string name="usuario">Usuario</string>
+    <string name="contraseña">Contraseña</string>
+
+
+    <string-array name="drawer_list">
+        <item>Home</item>
+        <item>Mi Perfil</item>
+        <item>Destacados</item>
+        <item>Categorias</item>
+        <item>Acerca de</item>
+    </string-array>
+
+    <!-- Sliding Menu item icons -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home_black_24dp</item>
+        <item>@drawable/ic_account_circle_black_24dp</item>
+        <item>@drawable/ic_stars_black_24dp</item>
+        <item>@drawable/ic_event_black_24dp</item>
+        <item>@drawable/ic_info_outline_black_24dp</item>
+
+    </array>
+    <string name="title_activity_register">Register</string>
 
 </resources>
