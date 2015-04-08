@@ -1,0 +1,48 @@
+{
+"Eventos":[
+  {
+    "id_evento": 4,
+    "nombre": "Mega party",
+    "fecha": "2012-08-05",
+    "hora": "2:30",
+    "descripcion": "fa",
+    "email": "afdsafs",
+    "calificacion": 5,
+    "precio": 50,
+    "estado": 1,
+    "imagen": "http://hosting/imagenes/foto1.jpg",
+    "lugar_id_lugar": 1,
+    "categoria_id_categoria": 2,
+    "cliente_id_cliente": 1
+  },
+  {
+    "id_evento": 5,
+    "nombre": "party remota",
+    "fecha": "2012-08-05",
+    "hora": "2:30",
+    "descripcion": "fa",
+    "email": "afdsafs",
+    "calificacion": 5,
+    "precio": 50,
+    "estado": 1,
+    "imagen": "http://hosting/imagenes/foto1.jpg",
+    "lugar_id_lugar": 1,
+    "categoria_id_categoria": 2,
+    "cliente_id_cliente": 1
+  },
+  {
+    "id_evento": 6,
+    "nombre": "party remota",
+    "fecha": "2012-08-05",
+    "hora": "2:30",
+    "descripcion": "fa",
+    "email": "afdsafs",
+    "calificacion": 5,
+    "precio": 50,
+    "estado": 1,
+    "imagen": "http://hosting/imagenes/foto1.jpg",
+    "lugar_id_lugar": 1,
+    "categoria_id_categoria": 2,
+    "cliente_id_cliente": 1
+  }
+]}
